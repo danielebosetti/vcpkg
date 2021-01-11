@@ -1,0 +1,16 @@
+{
+  "name": "ppeureka",
+  "version-string": "0.0.1",
+  "homepage": "asd",
+  "description": "asd",
+  "dependencies": [],
+
+  "default-features": [],
+  "features": [
+    {
+      "name": "test",
+      "description": "asd",
+      "dependencies": []
+    }
+  ]
+}
